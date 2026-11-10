@@ -16,11 +16,11 @@ Gå igenom listan uppifrån och ned. Kryssa av när du kontrollerat.
 - [√] Alla formulärfält har en kopplad `label`
 - [√] Alla knappar är `<button>` (inte `<div>`)
 - [√] All text klarar kontrast 4,5:1
-- [ ] Du kan använda hela sidan med bara tangentbordet
-- [ ] Fokus syns alltid
+- [√] Du kan använda hela sidan med bara tangentbordet
+- [√] Fokus syns alltid
 
 ## CSS
-- [ ] `box-sizing: border-box` är satt
+- [√] `box-sizing: border-box` är satt
 - [ ] Färger och avstånd kommer från variabler
 - [ ] Inga oanvända eller felstavade klasser
 - [ ] Filerna är uppdelade och logiskt namngivna
