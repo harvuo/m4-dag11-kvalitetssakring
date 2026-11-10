@@ -14,8 +14,8 @@ Gå igenom listan uppifrån och ned. Kryssa av när du kontrollerat.
 ## Tillgänglighet
 - [√] Alla bilder har alt-text som beskriver bilden
 - [√] Alla formulärfält har en kopplad `label`
-- [J] Alla knappar är `<button>` (inte `<div>`)
-- [ ] All text klarar kontrast 4,5:1
+- [√] Alla knappar är `<button>` (inte `<div>`)
+- [√] All text klarar kontrast 4,5:1
 - [ ] Du kan använda hela sidan med bara tangentbordet
 - [ ] Fokus syns alltid
 
