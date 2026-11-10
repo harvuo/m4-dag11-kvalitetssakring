@@ -3,9 +3,9 @@
 Gå igenom listan uppifrån och ned. Kryssa av när du kontrollerat.
 
 ## HTML
-- [ ] Validerar i validator.w3.org utan fel
-- [ ] `lang="sv"` på `<html>`
-- [ ] Exakt en `<h1>` per sida
+- [√] Validerar i validator.w3.org utan fel
+- [√] `lang="sv"` på `<html>`
+- [√] Exakt en `<h1>` per sida
 - [ ] Rubrikhierarkin hoppar inte (h1, h2, h3)
 - [ ] Semantiska element används (header, nav, main, section, article, footer)
 - [ ] Inga dubblerade `id`

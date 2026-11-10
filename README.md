@@ -26,11 +26,11 @@ Fastnar du: skriv ner exakt var och vad du försökt, och ta det först i nästa
 
 Öppna `KVALITETSLISTA.md` och läs hela. Den är din karta.
 
-### Steg 2. Kör validatorn och Lighthouse
+### Steg 2. Kör validatorn och Lighthouse √
 
 Kör `index.html` och `kontakt.html` genom validator.w3.org och skriv upp felen. Kör sedan Lighthouse (DevTools, fliken Lighthouse, kryssa Accessibility, *Analyze*) på `index.html` och **skriv upp poängen** (före).
 
-### Steg 3. Hitta de tio felen
+### Steg 3. Hitta de tio felen. 
 
 Det finns bland annat: en saknad alt-text, ett hopp i rubrikhierarkin, en `label` som inte är kopplad, en `<div>` som fungerar som knapp, en text med för låg kontrast, ett element med fast bredd som ger horisontell scroll på mobil, en trasig länk, ett dubblerat `id`, en saknad `lang`, och en oanvänd, felstavad CSS-klass. Hitta dem alla.
 
