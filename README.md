@@ -22,7 +22,7 @@ Fastnar du: skriv ner exakt var och vad du försökt, och ta det först i nästa
 
 ## Uppgiften steg för steg
 
-### Steg 1. Gå igenom checklistan
+### Steg 1. Gå igenom checklistan √
 
 Öppna `KVALITETSLISTA.md` och läs hela. Den är din karta.
 
