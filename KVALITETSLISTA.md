@@ -12,9 +12,9 @@ Gå igenom listan uppifrån och ned. Kryssa av när du kontrollerat.
 - [√] Alla länkar går någonstans (testa dem)
 
 ## Tillgänglighet
-- [ ] Alla bilder har alt-text som beskriver bilden
-- [ ] Alla formulärfält har en kopplad `label`
-- [ ] Alla knappar är `<button>` (inte `<div>`)
+- [√] Alla bilder har alt-text som beskriver bilden
+- [√] Alla formulärfält har en kopplad `label`
+- [J] Alla knappar är `<button>` (inte `<div>`)
 - [ ] All text klarar kontrast 4,5:1
 - [ ] Du kan använda hela sidan med bara tangentbordet
 - [ ] Fokus syns alltid
