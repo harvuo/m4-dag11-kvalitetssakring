@@ -43,7 +43,8 @@ article img,
 .pris {
   margin-top: auto;
   font-weight: 700;
-  color: #b9a58f;
+  /* color: #b9a58f; */
+  color: var(--color-text);
 }
 
 /* Hero */
